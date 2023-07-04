@@ -1,8 +1,0 @@
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\obj\Debug\Practical-Q6.csproj.AssemblyReference.cache
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\obj\Debug\Practical-Q6.csproj.SuggestedBindingRedirects.cache
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\obj\Debug\Practical-Q6.csproj.CoreCompileInputs.cache
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\bin\Debug\Practical-Q6.exe.config
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\bin\Debug\Practical-Q6.exe
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\bin\Debug\Practical-Q6.pdb
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\obj\Debug\Practical-Q6.exe
-C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical-Q6\Practical-Q6\obj\Debug\Practical-Q6.pdb

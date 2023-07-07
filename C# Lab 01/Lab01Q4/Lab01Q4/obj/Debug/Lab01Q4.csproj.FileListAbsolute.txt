@@ -1,0 +1,8 @@
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\bin\Debug\Lab01Q4.exe.config
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\bin\Debug\Lab01Q4.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\bin\Debug\Lab01Q4.pdb
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\obj\Debug\Lab01Q4.csproj.AssemblyReference.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\obj\Debug\Lab01Q4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\obj\Debug\Lab01Q4.csproj.CoreCompileInputs.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\obj\Debug\Lab01Q4.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Lab01Q4\Lab01Q4\obj\Debug\Lab01Q4.pdb

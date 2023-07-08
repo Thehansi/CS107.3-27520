@@ -1,0 +1,8 @@
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\bin\Debug\Q5.exe.config
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\bin\Debug\Q5.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\bin\Debug\Q5.pdb
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\obj\Debug\Q5.csproj.AssemblyReference.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\obj\Debug\Q5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\obj\Debug\Q5.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Q5\Q5\obj\Debug\Q5.pdb

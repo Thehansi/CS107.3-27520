@@ -1,0 +1,8 @@
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\obj\Debug\Practical04Q1.csproj.AssemblyReference.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\obj\Debug\Practical04Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\obj\Debug\Practical04Q1.csproj.CoreCompileInputs.cache
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\bin\Debug\Practical04Q1.exe.config
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\bin\Debug\Practical04Q1.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\bin\Debug\Practical04Q1.pdb
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\obj\Debug\Practical04Q1.exe
+C:\Users\Thehansi Gunarathne\Desktop\NSBM\C# Programming\Practical04Q1\Practical04Q1\obj\Debug\Practical04Q1.pdb
